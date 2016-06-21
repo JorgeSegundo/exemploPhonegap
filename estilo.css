@@ -1,0 +1,10 @@
+body{
+	background: blue;
+	margin: 10px;
+}
+
+.texto{
+	color: white;
+	text-align: center;
+	font-size: 3em;
+}
